@@ -1,6 +1,7 @@
 # notes_fire
 
 A new Flutter project.
+A basic notes which add your notes to your firestore profile
 
 ## Getting Started
 
